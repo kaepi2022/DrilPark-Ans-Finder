@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "DrilPark Ans Finder created by MineKura",
+  "version": "1.0",
+  "permissions": ["activeTab"],
+  "content_scripts": [
+    {
+      "matches": ["https://miraiseed.benesse.ne.jp/"], //Need Manbipoket Login
+      "js": ["content.js"]
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    }
+  }
+}
