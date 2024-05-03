@@ -1,0 +1,2 @@
+んー動かん
+なんでだwwwwwwwwwwwwwwwwwwwwwwww
